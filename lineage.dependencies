@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "surblazer/android_device_samsung_galaxys2plus-common",
+    "repository": "WinSSitaly/android_device_samsung_galaxys2plus-common",
     "target_path": "device/samsung/galaxys2plus-common",
     "revision": "lineage-15.1"
   }
